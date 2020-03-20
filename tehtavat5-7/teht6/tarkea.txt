@@ -1,1 +1,5 @@
-ALUSSA TÄRKEÄÄ UUTTA TEKSTIÄ tärkeää tekstiä
+<<<<<<< HEAD
+ALUSSA TÄRKEÄÄ UUTTA TEKSTIÄ tärkeää tekstiä -uusi loppu
+=======
+tärkeää tekstiä LOPPUUN UUTTA TEKSTIÄ
+>>>>>>> toka
